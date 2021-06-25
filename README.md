@@ -1,4 +1,7 @@
+
 # Aria2c+AriaNg
+
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2Fararway%2Faria2c-ariang&envs=PORT&PORTDefault=8080)
 
 > It it recommended to find other platform than Heroku to deploy this as they are actively prevent this from deploying there.
 > You can find many free platforms here: https://free-for.dev/
